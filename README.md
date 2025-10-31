@@ -17,7 +17,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#2d6cdf">Sebastián Chisavo Forero</span></h1>
 
 **💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast**  
-📍 Colombia | ✉️ sebastian.chisavo@gmail.com  
+📍 Colombia | ✉️ sebastianchisavoforero@gmail.com  
 🔗 [Portfolio](https://schisavo.github.io/Portfolium_schisavo/) · [LinkedIn](https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/) · [GitHub](https://github.com/schisavo)
 
 ---
