@@ -18,7 +18,7 @@
 
 **💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast**  
 📍 Colombia | ✉️ sebastianchisavoforero@gmail.com  
-🔗 [Portfolio](https://schisavo.github.io/Portfolium_schisavo/) · [LinkedIn](https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/) · [GitHub](https://github.com/schisavo)
+🔗 [Portfolio](https://schisavo.github.io/) · [LinkedIn](https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/) · [GitHub](https://github.com/schisavo)
 
 ---
 
