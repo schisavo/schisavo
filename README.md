@@ -1,19 +1,35 @@
 <!--Banner-->
 ![Sebastián Banner](./banner.png)
 
-<!--Logo + Header-->
-<div style="display:flex; align-items:center; justify-content:center; gap:20px;">
-  <!-- Logo grande -->
-  <img src="./Logo.svg" alt="Logo Sebastián" width="150" height="150"/>
-
-  <!-- Texto de presentación -->
-  <div>
-    <h1>👋 Hola, soy <span style="color:#2d6cdf">Sebastián Chisavo Forero</span></h1>
-    <p><strong>💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast</strong></p>
-    <p>📍 Colombia | ✉️ sebastianchisavoforero@gmail.com</p>
-    <p>🔗 <a href="https://schisavo.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/">LinkedIn</a> · <a href="https://github.com/schisavo">GitHub</a></p>
-  </div>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="./Logo.svg">
 </div>
+
+<!--Header Name-->
+# <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" height="30">
+  </picture> Hola, soy Sebastian Chisavo Forero
+*Ingeniero de Software (Game Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 
 ---
 
