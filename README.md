@@ -1,24 +1,15 @@
-<p align="center">
-  <!-- Animación minimalista estilo bit-face -->
-  <svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
-    <rect width="120" height="80" rx="10" fill="#0d1117" stroke="#2d6cdf" stroke-width="3"/>
-    <rect x="25" y="25" width="15" height="15" fill="#2d6cdf">
-      <animate attributeName="height" values="15;5;15" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="80" y="25" width="15" height="15" fill="#2d6cdf">
-      <animate attributeName="height" values="15;15;5;15" dur="3s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="40" y="55" width="40" height="8" fill="#2d6cdf">
-      <animate attributeName="width" values="40;10;40" dur="2.5s" repeatCount="indefinite"/>
-    </rect>
-  </svg>
+<div style="display:flex; align-items:center; justify-content:center; gap:20px;">
+  <!-- Logo grande -->
+  <img src="Logo.svg" alt="Logo Sebastián" width="150" height="150"/>
 
-  <!-- Tu logo SVG exportado -->
-  <img src="Logo.svg" alt="Logo Sebastián" width="120" height="80"/>
-</p>
-
-
-<h1 align="center">👋 Hi, I'm <span style="color:#2d6cdf">Sebastián Chisavo Forero</span></h1>
+  <!-- Texto de presentación -->
+  <div>
+    <h1>👋 Hola, soy <span style="color:#2d6cdf">Sebastián Chisavo Forero</span></h1>
+    <p><strong>💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast</strong></p>
+    <p>📍 Colombia | ✉️ sebastianchisavoforero@gmail.com</p>
+    <p>🔗 <a href="https://schisavo.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/">LinkedIn</a> · <a href="https://github.com/schisavo">GitHub</a></p>
+  </div>
+</div>
 
 **💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast**  
 📍 Colombia | ✉️ sebastianchisavoforero@gmail.com  
@@ -26,15 +17,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full Stack Developer and 3D Creator** passionate about designing experiences that merge **technology, creativity, and functionality**.  
 I specialize in **front-end architecture**, **interactive UI/UX**, and **modular backend systems** with a strong focus on **automation and scalable design**.
 
-Currently, I’m working on:  
-- 🧠 An **AI-powered personal assistant (Jarvis-style)**  
-- 🎮 A **competitive low-poly shooter game built in Godot**  
-- ⚡ Renewable energy adaptation for **solar-powered scooters**
+## Currently, I’m working on
+- 🧠 I’m designing and creating applications and websites, covering the full software life cycle.  
+- 🎮 Developing competitive interactive applications using 3D models.  
+- ⚡ Building and integrating AI-powered services.  
+- 📊 Creating **data-driven dashboards** for real-time analytics in business environments.  
+- 🔐 Designing **cybersecurity modules** for secure authentication and user management.  
+- 🌍 Developing **cross-platform mobile apps** focused on sustainability and smart mobility.
 
 ---
 
@@ -59,11 +53,14 @@ Currently, I’m working on:
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 - ⚙️ **Automation Platform** — Scripts that integrate AI + data workflows  
 - 🎮 **Respawnables-like Shooter (Godot)** — Multiplayer low-poly game  
 - 🔋 **Solar Scooter Prototype** — Sustainable mobility powered by smart systems  
+- 📊 **Smart Analytics Suite** — Real-time dashboards for enterprise decision-making  
+- 🔐 **SecureAuth Framework** — End-to-end authentication and encryption modules  
+- 🌍 **EcoMobile App** — Cross-platform solution for sustainable urban transport
 
 ---
 
