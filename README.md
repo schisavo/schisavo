@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- 👾 Animación minimalista estilo bit-face -->
+  <!-- Animación minimalista estilo bit-face -->
   <svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
     <rect width="120" height="80" rx="10" fill="#0d1117" stroke="#2d6cdf" stroke-width="3"/>
     <rect x="25" y="25" width="15" height="15" fill="#2d6cdf">
@@ -12,7 +12,11 @@
       <animate attributeName="width" values="40;10;40" dur="2.5s" repeatCount="indefinite"/>
     </rect>
   </svg>
+
+  <!-- Tu logo SVG exportado -->
+  <img src="logo.svg" alt="Logo Sebastián" width="120" height="80"/>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2d6cdf">Sebastián Chisavo Forero</span></h1>
 
