@@ -14,7 +14,7 @@
   </svg>
 
   <!-- Tu logo SVG exportado -->
-  <img src="logo.svg" alt="Logo Sebastián" width="120" height="80"/>
+  <img src="Logo.svg" alt="Logo Sebastián" width="120" height="80"/>
 </p>
 
 
