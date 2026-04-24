@@ -1,6 +1,10 @@
+<!--Banner-->
+![Sebastián Banner](./banner.png)
+
+<!--Logo + Header-->
 <div style="display:flex; align-items:center; justify-content:center; gap:20px;">
   <!-- Logo grande -->
-  <img src="Logo.svg" alt="Logo Sebastián" width="150" height="150"/>
+  <img src="./Logo.svg" alt="Logo Sebastián" width="150" height="150"/>
 
   <!-- Texto de presentación -->
   <div>
@@ -11,24 +15,27 @@
   </div>
 </div>
 
-**💻 Full Stack Developer | Game Dev | AI & Automation Enthusiast**  
-📍 Colombia | ✉️ sebastianchisavoforero@gmail.com  
-🔗 [Portfolio](https://schisavo.github.io/) · [LinkedIn](https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/) · [GitHub](https://github.com/schisavo)
-
 ---
 
-## About Me
+## 🚀 Currently, I’m working on
 
-I'm a **Full Stack Developer and 3D Creator** passionate about designing experiences that merge **technology, creativity, and functionality**.  
-I specialize in **front-end architecture**, **interactive UI/UX**, and **modular backend systems** with a strong focus on **automation and scalable design**.
-
-## Currently, I’m working on
 - 🧠 I’m designing and creating applications and websites, covering the full software life cycle.  
 - 🎮 Developing competitive interactive applications using 3D models.  
 - ⚡ Building and integrating AI-powered services.  
 - 📊 Creating **data-driven dashboards** for real-time analytics in business environments.  
 - 🔐 Designing **cybersecurity modules** for secure authentication and user management.  
 - 🌍 Developing **cross-platform mobile apps** focused on sustainability and smart mobility.
+
+---
+
+## 🧩 Featured Projects
+
+- ⚙️ **Automation Platform** — Scripts that integrate AI + data workflows  
+- 🎮 **Respawnables-like Shooter (Godot)** — Multiplayer low-poly game  
+- 🔋 **Solar Scooter Prototype** — Sustainable mobility powered by smart systems  
+- 📊 **Smart Analytics Suite** — Real-time dashboards for enterprise decision-making  
+- 🔐 **SecureAuth Framework** — End-to-end authentication and encryption modules  
+- 🌍 **EcoMobile App** — Cross-platform solution for sustainable urban transport  
 
 ---
 
@@ -50,17 +57,6 @@ I specialize in **front-end architecture**, **interactive UI/UX**, and **modular
   <img src="https://github-readme-stats.vercel.app/api?username=schisavo&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schisavo&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </div>
-
----
-
-## Featured Projects
-
-- ⚙️ **Automation Platform** — Scripts that integrate AI + data workflows  
-- 🎮 **Respawnables-like Shooter (Godot)** — Multiplayer low-poly game  
-- 🔋 **Solar Scooter Prototype** — Sustainable mobility powered by smart systems  
-- 📊 **Smart Analytics Suite** — Real-time dashboards for enterprise decision-making  
-- 🔐 **SecureAuth Framework** — End-to-end authentication and encryption modules  
-- 🌍 **EcoMobile App** — Cross-platform solution for sustainable urban transport
 
 ---
 
