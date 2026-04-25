@@ -1,38 +1,38 @@
 <!--Banner-->
-![Sebastián Banner](./banner.png)
+![Sebastian Banner](./banner.png)
 
-<!--Night Owl image-->
+<!--Header -->
 <div>
   <img align="right" width="40%" src="./Logo.svg">
 </div>
 
-<!--Header Name-->
-# <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" height="30">
-</picture> Hola, soy Sebastián Chisavo Forero
-*Ingeniero de Software (Game Developer / Programmer)*
-
+<!--Header -->
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="30" height="30"> ɪ'ᴍ Sebastian Chisavo Forero! 
+*Software Engineer(Full Stack Developer / Game Developer / Software Programmer)*
 <br /> 
+<!--Header -->
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a software engineer passionate about development and a fanatic for exploring this world of technology.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+- ❤ Always doing something :)
+
+- 🔄 **Software Development Lifecycle (SDLC)**  
+Experience across the full SDLC: requirements analysis, system architecture, development, testing, deployment, and continuous maintenance following engineering best practices.
+
+- 🌐 **Web Development (Full Stack)**  
+Building modern web applications with frontend/backend integration, REST APIs, state management, and scalable architectures focused on performance and data-driven systems.
+
+- 📱 **Mobile Development**  
+Developing cross-platform mobile applications with strong focus on UX/UI, performance, and practical solutions such as intelligent systems and mobility applications.
+
+- 🎮 **Interactive Applications / Game Development**  
+Creating 3D interactive systems and games using Godot, implementing game mechanics, skill systems, and optimized low-poly environments.
+
+- 🧩 **Additional Technical Skills**  
+Artificial Intelligence (ML model integration), process automation (n8n), SQL/NoSQL/graph databases, analytics dashboards, version control with Git/GitHub, and collaborative development workflows.
+
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-
----
 
 ## 🚀 Currently, I’m working on
 
@@ -47,13 +47,11 @@
 
 ## 🧩 Featured Projects
 
-- ⚙️ **Automation Platform** — Scripts that integrate AI + data workflows  
-- 🎮 **Respawnables-like Shooter (Godot)** — Multiplayer low-poly game  
-- 🔋 **Solar Scooter Prototype** — Sustainable mobility powered by smart systems  
-- 📊 **Smart Analytics Suite** — Real-time dashboards for enterprise decision-making  
-- 🔐 **SecureAuth Framework** — End-to-end authentication and encryption modules  
-- 🌍 **EcoMobile App** — Cross-platform solution for sustainable urban transport  
+- 🌐 **TrustByReviews** — Centralized digital reputation management platform built with React, TypeScript, and Node.js. Designed to connect businesses and customers, enabling transparent feedback management, reputation analysis across multiple branches, and data-driven insights to identify issues, improve services, and strengthen brand trust.  
+  🔗 https://new.trustbyreviews.com/
 
+- 🍫 **Chocolatería Virtual** — Cross-platform interactive learning application developed in Unity for PC, mobile, Meta Quest (Oculus), and HTC Vive Pro. Designed to train students in chocolate-making processes through immersive simulations and hands-on virtual environments.  
+  🔗 https://play.google.com/store/apps/details?id=com.chocolateria.sena.tpc.virtuales&pcampaignid=web_share
 ---
 
 ## 🛠️ Tech Stack
