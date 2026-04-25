@@ -80,7 +80,7 @@ Artificial Intelligence (ML model integration), process automation (n8n), SQL/No
 <div align="center">
   <a href="https://www.linkedin.com/in/sebastian-chisavo-forero-405aa0310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sebastianchisavoforero@gmail.com"><img src="https://img.shields.io/badge/Email-EB4432?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/schisavo"><img src="https://img.shields.io/badge/Portfolio-2d6cdf?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://schisavo.github.io/"><img src="https://img.shields.io/badge/Portfolio-2d6cdf?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
 ---
